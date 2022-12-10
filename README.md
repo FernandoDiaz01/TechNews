@@ -1,3 +1,5 @@
-https://unruffled-cori-24debf.netlify.app/#
+https://unruffled-cori-24debf.netlify.app
 
-Mi primera página hecha con html y css
+https://sad-rosalind-b05e0e.netlify.app/
+
+Mis primeras páginsa hechas con html y css
